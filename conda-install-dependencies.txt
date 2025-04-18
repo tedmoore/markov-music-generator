@@ -1,0 +1,7 @@
+mido
+jupyter
+jupyterlab
+fluidsynth
+markovify
+
+ycrc_conda_env.sh update
